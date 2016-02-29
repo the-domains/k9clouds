@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.4646996
+  lightness: 0.4469868
+  brandStrength: 0.8670642
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#303030'
+    - '#6E6E6E'
+    - '#919191'
+  rhythmicContrast: 0.3320659
+typography_spectrum: 0.7204301
+name: K9Clouds
